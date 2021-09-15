@@ -20,14 +20,14 @@ while (p1 < 3) and (p2 < 3) and (p3 < 3):
     elif j2 != j1 and j2 != j3:
         p2 += 1
         print(f"J1P = {p1} | J2P = {p2} | J3P = {p3}\n")
-    elif j3 != j1 and j3 != j2:
+    else:
         p3 += 1
         print(f"J1P = {p1} | J2P = {p2} | J3P = {p3}\n")
 if p1>p2 and p1>p3:
     print(f"Jogador 1 e o vencedor")
 elif p2>p1 and p2>p3:
     print("Jogador 2 e o vencedor")
-elif p3 > p1 and p3 > p2:
+else:
     print("Jogador 3 e o vencedor")
 
 

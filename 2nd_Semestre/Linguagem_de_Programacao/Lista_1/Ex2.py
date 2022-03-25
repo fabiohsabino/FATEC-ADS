@@ -1,5 +1,7 @@
 frase = input("Digite uma frase: ")
 vogal = "AaEeIiOoUu"
-for i in range(frase):
+cont = 0
+for i in range(len(frase)):
     if frase[i] not in vogal:
-        print(frase[i],end = '')
+        cont+=1
+print(cont)

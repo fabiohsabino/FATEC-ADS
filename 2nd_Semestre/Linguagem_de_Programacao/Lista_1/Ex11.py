@@ -1,4 +1,5 @@
-pal = input("Digite uma palavra: ")
-for i in range(len(pal)):
-    pal[i] = ord(pal[i]+1)
-print(pal)
+txt = input('Informe a palavra >> ')
+cri = ''
+for letra in txt:
+    cri += chr(ord(letra)+1)
+print(cri)

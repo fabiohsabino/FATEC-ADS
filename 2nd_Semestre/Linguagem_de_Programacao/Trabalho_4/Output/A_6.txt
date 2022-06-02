@@ -1,0 +1,16 @@
+Valor inicial: 8
+Numeros pares: 3
+Numeros impares: 1
+Maior Numero: 8
+Valor inicial: 13
+Numeros pares: 7
+Numeros impares: 3
+Maior Numero: 40
+Valor inicial: 12
+Numeros pares: 7
+Numeros impares: 3
+Maior Numero: 16.0
+Valor inicial: 14
+Numeros pares: 12
+Numeros impares: 6
+Maior Numero: 52.0

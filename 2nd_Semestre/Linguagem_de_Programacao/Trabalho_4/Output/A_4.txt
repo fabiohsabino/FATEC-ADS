@@ -1,0 +1,4 @@
+Valor inicial: 15
+Numeros pares: 12
+Numeros impares: 6
+Maior Numero: 160.0

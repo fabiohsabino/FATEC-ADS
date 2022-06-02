@@ -1,0 +1,16 @@
+Valor inicial: 11
+Numeros pares: 10
+Numeros impares: 5
+Maior Numero: 52.0
+Valor inicial: 10
+Numeros pares: 5
+Numeros impares: 2
+Maior Numero: 16.0
+Valor inicial: 5
+Numeros pares: 4
+Numeros impares: 2
+Maior Numero: 16
+Valor inicial: 1
+Numeros pares: 0
+Numeros impares: 1
+Maior Numero: 1

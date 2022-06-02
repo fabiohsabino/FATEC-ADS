@@ -38,4 +38,5 @@ for i in range(100):
         #print(f"Numeros gerados: {a}")                #Verificar Numeros Gerados 
         fo.write(f"Numeros pares: {b}\nNumeros impares: {y}\nMaior Numero: {z}\n")
         print(f"Numeros pares: {b}\nNumeros impares: {y}\nMaior Numero: {z}")
+    fi.close()
     fo.close()
